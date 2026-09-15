@@ -1,0 +1,1 @@
+This repository contains learner-created internship documentation and a synthetic demonstration dataset. Public datasets referenced in the report remain subject to their respective source licenses and terms. Do not upload personal or confidential data.
