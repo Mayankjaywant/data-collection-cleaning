@@ -1,2 +1,1 @@
-# data-collection-cleaning
-YUVA Intern Week 2 project on data collection strategy, data cleaning, preprocessing and validation for digital public services.
+Store only cleaned, validated, privacy-reviewed outputs here. Keep original/raw data separate and do not publish personal data.
