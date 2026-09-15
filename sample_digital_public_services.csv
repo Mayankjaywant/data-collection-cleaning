@@ -1,0 +1,9 @@
+record_id,state_or_district,rural_area,age_group,education_level,internet_access,smartphone_access,service_awareness,service_usage,primary_barrier,satisfaction_score,completion_success,collection_date
+R001,Uttar Pradesh,Yes,18-25,Graduate,Yes,Yes,4,3,Connectivity,4,1,2026-09-01
+R002,Uttar Pradesh,Yes,26-40,12th,Yes,Yes,3,2,Awareness,4,1,2026-09-01
+R003,Uttar Pradesh,Yes,41-60,10th,Occasional,Shared,2,1,Digital literacy,3,0,2026-09-02
+R004,Uttar Pradesh,Yes,18-25,Graduate,Yes,Yes,4,4,Usability,5,1,2026-09-02
+R005,Uttar Pradesh,Yes,26-40,Graduate,No,No,1,0,Connectivity,2,0,2026-09-03
+R006,Uttar Pradesh,Yes,18-25,12th,Yes,Yes,3,3,Language,4,1,2026-09-03
+R007,Uttar Pradesh,Yes,61+,10th,Occasional,Shared,1,1,Digital literacy,3,0,2026-09-04
+R008,Uttar Pradesh,Yes,26-40,Graduate,Yes,Yes,4,3,Service availability,4,1,2026-09-04
